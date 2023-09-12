@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gebrielyudanuarta_mj5bmalam_tugas5/ui_view/login.dart';
-
+//halaman signup
 class SignUp extends StatelessWidget { 
 @override
 Widget build(BuildContext context) { 
